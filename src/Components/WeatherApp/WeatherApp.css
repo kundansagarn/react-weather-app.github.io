@@ -9,6 +9,7 @@ body{
     background: linear-gradient(145deg, rgb(192, 219, 138), rgb(135, 189, 135));
 }
 .container{
+    justify-content: center;
     width: 500px;
     height: 600px;
     margin: auto;
